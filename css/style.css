@@ -261,6 +261,10 @@ main {
         flex-wrap: wrap;
     }
 
+    #flex-container img {
+        width: 50%;
+    }
+
     #critterpedia {
         display: grid;
         grid-template-columns: 1fr 1fr;
