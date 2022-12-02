@@ -209,10 +209,6 @@ main {
     margin-top: 20px;
 }
 
-/* .mixitup-img {
-    
-} */
-
 .control {
     -webkit-border-radius: 14;
     -moz-border-radius: 14;
@@ -286,6 +282,10 @@ main {
 
     #grid-container {
         grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    #grid-container img {
+        width: 25%;
     }
 
     #flex-container {
