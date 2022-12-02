@@ -1,9 +1,9 @@
 @font-face {
-    font-family: FinkHeavy; src: url('../../FinkHeavy.ttf');
+    font-family: FinkHeavy; src: url('../FinkHeavy.ttf');
 }
 
 @font-face {
-    font-family: Rodin; src: url('../../FOT_Rodin_Pro_UB.otf');
+    font-family: Rodin; src: url('../FOT_Rodin_Pro_UB.otf');
 }
 
 body {
@@ -35,7 +35,7 @@ h1 {
 }
 
 h1, h2 {
-    font-family: FinkHeavy;
+    font-family: FinkHeavy, Rockabye, Monaco;
     color: #572D00;
 }
 
