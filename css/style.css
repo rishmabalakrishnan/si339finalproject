@@ -35,7 +35,7 @@ h1 {
 }
 
 h1, h2 {
-    font-family: FinkHeavy, Rockabye, Monaco;
+    font-family: "FinkHeavy", "Rockabye", "Monaco";
     color: #572D00;
 }
 
@@ -67,7 +67,7 @@ nav a {
     -webkit-box-shadow: 0px 1px 3px #666666;
     -moz-box-shadow: 0px 1px 3px #666666;
     box-shadow: 0px 1px 3px #666666;
-    font-family: FinkHeavy;
+    font-family: "FinkHeavy", "Rockabye", "Monaco";
     color: #572D00;
     font-size: 20px;
     background: #D0E0E3;
@@ -216,7 +216,7 @@ main {
     -webkit-box-shadow: 0px 1px 3px #666666;
     -moz-box-shadow: 0px 1px 3px #666666;
     box-shadow: 0px 1px 3px #666666;
-    font-family: FinkHeavy;
+    font-family: "FinkHeavy", "Rockabye", "Monaco";
     color: #572D00;
     font-size: 20px;
     background: #D0E0E3;
